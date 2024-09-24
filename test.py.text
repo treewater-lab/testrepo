@@ -1,0 +1,2 @@
+# This is a test Python file with a .text extension
+print("Hello from test.py.text")
